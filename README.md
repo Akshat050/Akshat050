@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;2%2B+Years+Building+Production+Systems;Google+Cloud+Certified+ML+Engineer;Specialist+in+LLMs+%26+RAG+Architectures;Client-Validated+Production+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Production+LLM+Systems+%26+RAG+Architectures;Google+Cloud+Certified;Full-Stack+ML+Development;Recent+MS+Graduate+%7C+Seeking+ML+Opportunities)](https://git.io/typing-svg)
 
-**📍 Burnaby, BC, Canada | 💼 Open to ML Engineering Opportunities**
+**📍 Vancouver, BC, Canada | 💼 Open to ML Engineering Opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-bhatt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatbhatt30@gmail.com)
@@ -18,30 +18,40 @@
 
 ## 🚀 About Me
 
-**Machine Learning Engineer** with **2+ years building production ML systems** for real-world clients and applications. Google Cloud certified with expertise in **LLM-based systems**, **RAG architectures**, and **applied AI deployment**.
+**Machine Learning Engineer** specializing in **LLM-based systems**, **RAG architectures**, and **production AI deployment**. Recent MS graduate (Northeastern University, 2024) with hands-on experience building production-grade ML systems for industry partners.
 
-I don't just build models—I build **production systems that work at scale** with real users, real constraints, and real validation.
-
+I don't just build models—I build **complete, production-ready systems** with real validation, measurable metrics, and proven impact.
 ```python
 class AkshatBhatt:
     def __init__(self):
         self.role = "Machine Learning Engineer"
-        self.experience = "2+ years production ML systems"
-        self.certifications = ["Google Cloud ML", "GenAI Specialist"]
+        self.education = "MS Data Analytics Engineering (Northeastern, 2024)"
+        self.location = "Vancouver, BC"
+        self.status = "Actively seeking ML Engineering opportunities"
+        self.certifications = ["Google Cloud ML Engineer", "GenAI Specialist"]
+        
         self.specialization = [
-            "LLM Systems & RAG",
+            "LLM Systems & RAG Architectures",
             "Production ML Deployment", 
-            "Cloud-Native AI"
+            "Full-Stack ML Development",
+            "FastAPI + Docker + Cloud"
         ]
+        
         self.proven_results = {
-            "client_projects": 3,
+            "industry_projects": 3,
             "production_systems": 6,
             "accuracy_achieved": "82-85%",
-            "latency_optimized": "<2s"
+            "latency_optimized": "<2s",
+            "hallucination_reduction": "40%"
         }
     
     def differentiator(self):
-        return "Client-validated systems + Google Cloud certified + Production focus"
+        return """
+        Graduate ML projects with real industry partners +
+        Google Cloud certified +
+        Production-focused engineering +
+        Full-stack capabilities
+        """
 ```
 
 ---
@@ -63,21 +73,21 @@ class AkshatBhatt:
 ### 🤖 **AI & Machine Learning**
 - ✅ Introduction to Generative AI (2024)
 - ✅ Level 3: GenAIus Chats (2024)
-- ✅ Engineer Data for Predictive Modeling with BigQuery ML (2021)
-- ✅ Use Machine Learning APIs on Google Cloud (2021)
-- ✅ Explore ML Models with Explainable AI (2021)
-- ✅ Prepare Data for ML APIs on Google Cloud (2021)
+- ✅ Engineer Data for Predictive Modeling with BigQuery ML
+- ✅ Use Machine Learning APIs on Google Cloud
+- ✅ Explore ML Models with Explainable AI
+- ✅ Prepare Data for ML APIs on Google Cloud
 
 </td>
 <td width="50%">
 
 ### ☁️ **Cloud Infrastructure & Deployment**
-- ✅ Deploy Kubernetes Applications on Google Cloud (2021)
-- ✅ Build a Secure Google Cloud Network (2021)
-- ✅ Set Up a Google Cloud Network (2021)
-- ✅ Develop Your Google Cloud Network (2021)
-- ✅ Implementing Cloud Load Balancing for Compute Engine (2021)
-- ✅ Derive Insights from BigQuery Data (2021)
+- ✅ Deploy Kubernetes Applications on Google Cloud
+- ✅ Build a Secure Google Cloud Network
+- ✅ Set Up a Google Cloud Network
+- ✅ Develop Your Google Cloud Network
+- ✅ Implementing Cloud Load Balancing for Compute Engine
+- ✅ Derive Insights from BigQuery Data
 
 </td>
 </tr>
@@ -87,11 +97,15 @@ class AkshatBhatt:
 
 ---
 
-## 💼 Professional Experience Highlights
+## 💼 ML Engineering Experience
 
 <div align="center">
 
-### 🏢 Real Client Projects - Production ML & Data Systems
+### 🎓 Graduate ML Projects with Industry Partners
+*Northeastern University | 2023-2024*
+
+> Built production-grade ML systems for real organizations as part of graduate program.  
+> All systems delivered to production and validated by partner stakeholders.
 
 </div>
 
@@ -100,73 +114,98 @@ class AkshatBhatt:
 <td width="33%">
 
 ### 📊 **Enterprise Document Intelligence**
-**Client:** Series A SaaS Startup  
-**Duration:** Summer 2023
+**Industry Partner:** Series A AI Startup  
 
-**Challenge:** Enable 10K+ document search for enterprise customers
+**Challenge:**  
+Enable enterprise customers to query 10K+ internal documents efficiently with high accuracy.
 
-**Solution Built:**
-- Complete RAG pipeline with hybrid retrieval
-- GPT-4 powered Q&A with citation tracking
-- Production deployment validated by client
+**My Solution:**
+- Designed complete RAG pipeline: ingestion → chunking → embedding → retrieval → generation
+- Built FastAPI backend with async patterns and Pydantic models
+- Implemented hallucination detection and output validation
+- Deployed containerized system with Docker
+- Integrated Pinecone vector database and PostgreSQL
 
 **Results:**
-- ✅ **82% answer accuracy** (user-tested)
+- ✅ **82% answer accuracy** (validated through user testing)
 - ✅ **<2s query latency** at scale
-- ✅ **40% hallucination reduction**
-- ✅ **Validated for commercial deployment**
+- ✅ **40% reduction in hallucinations** through prompt engineering and validation
+- ✅ **System deployed to production** and serving real customers
 
-**Tech:** Python, FastAPI, OpenAI, Pinecone, PostgreSQL
-
-</td>
-<td width="33%">
-
-### 🏛️ **Business Policy Navigator**
-**Client:** Small Business Solutions Provider  
-**Duration:** Fall 2023
-
-**Challenge:** Help 100+ businesses navigate regulations
-
-**Solution Built:**
-- Semantic search over 1000+ policy documents
-- Location-aware policy recommendations
-- LLM-powered plain-language summaries
-
-**Results:**
-- ✅ **85% retrieval accuracy** on test queries
-- ✅ **Deployed to client infrastructure**
-- ✅ **Serving 100+ businesses**
-- ✅ **Reduced research time from hours to minutes**
-
-**Tech:** Python, FastAPI, FAISS, GPT-4, React
+**Tech Stack:**  
+Python · FastAPI · OpenAI GPT-4 · Pinecone · PostgreSQL · Docker · Pydantic
 
 </td>
 <td width="33%">
 
-### 🚀 **Project Ascend**
-**Client:** IECBC (Immigration Consultants)  
-**Duration:** 2024
+### 🏛️ **Business Policy Navigation System**
+**Research Partner:** Small Business Advisory Firm  
 
-**Challenge:** Build comprehensive data analytics platform for immigration consulting operations
+**Challenge:**  
+Help 100+ small businesses navigate complex regulatory requirements across jurisdictions.
 
-**Solution Built:**
-- End-to-end data pipeline and analytics system
-- Automated reporting and insights generation
-- Client data management and processing
+**My Solution:**
+- Built semantic search infrastructure indexing 1,000+ policy documents
+- Implemented location-aware, business-type-specific retrieval
+- Created LLM-based summarization with plain-language explanations
+- Developed full-stack application (FastAPI + React)
+- Collaborated with domain experts to validate outputs
 
 **Results:**
-- ✅ **Streamlined consulting operations**
-- ✅ **Automated data workflows**
-- ✅ **Production-ready deployment**
-- ✅ **Client-validated solution**
+- ✅ **85%+ retrieval relevance** on test queries
+- ✅ **<800ms average response time** with Redis caching
+- ✅ **Deployed to partner infrastructure**
+- ✅ **Validated by business advisors** (similar to working with CPAs)
 
-**Tech:** Python, Data Analytics, Automation
+**Tech Stack:**  
+Python · FastAPI · OpenAI API · FAISS · React · PostgreSQL · Redis · Docker
+
+</td>
+<td width="33%">
+
+### 🚀 **ASCEND Employment Platform**
+**Client:** IECBC (Immigrant Employment Council of BC)  
+
+**Challenge:**  
+Build comprehensive data analytics platform for immigrant employment program operations.
+
+**My Role:**
+- Developed serverless data processing pipeline (AWS SAM/Lambda)
+- Built Power BI dashboards for program analytics
+- Designed ETL workflows and data cleaning modules
+- Managed multi-language data processing
+- Collaborated in 5-person team
+
+**Results:**
+- ✅ **Production deployment** to client infrastructure
+- ✅ **Automated data workflows** for program evaluation
+- ✅ **Comprehensive analytics** enabling data-driven decisions
+- ✅ **Team collaboration** delivering end-to-end solution
+
+**Tech Stack:**  
+Python · AWS Lambda · AWS SAM · PostgreSQL · Power BI
 
 </td>
 </tr>
 </table>
 
-**📁 Detailed Case Studies:** [View Technical Documentation](https://github.com/Akshat050/llm-applied-ai-case-studies)
+---
+
+## 💼 Prior Professional Experience
+
+**Software Developer** | Ideation Design Studio | Ahmedabad, India | Oct 2021 – Nov 2022
+
+- Built Python backend systems and ETL pipelines processing **50K+ daily records** for 20+ client accounts
+- Designed data ingestion workflows reducing processing time by **60%** through optimization
+- Developed and deployed 3 major production features serving 100+ users with **99.5% uptime**
+- Automated 5 critical workflows eliminating **15+ hours/week** of manual work
+- Collaborated with cross-functional teams (design, product, clients) in fast-paced environment
+
+**Software Developer Intern** | BISAG-N (Government of Gujarat) | Gandhinagar, India | Jan 2021 – Jun 2021
+
+- Contributed to backend development for large-scale government data applications
+- Built data validation workflows and REST API integrations
+- Collaborated with teams to deliver production-ready components in regulated environment
 
 ---
 
@@ -174,11 +213,11 @@ class AkshatBhatt:
 
 ### 🧠 [CoachLens 2.0](https://github.com/Akshat050/coachlens-2.0) - AI Learning Companion
 
-<img align="right" width="120" src="https://raw.githubusercontent.com/github/explore/main/topics/chrome/chrome.png">
+<img align="right" width="100" src="https://raw.githubusercontent.com/github/explore/main/topics/chrome/chrome.png">
 
 **Chrome Extension | AI-Powered | Privacy-First**
 
-Intelligent Chrome extension that acts as your personal learning companion with real-time AI insights.
+Intelligent Chrome extension acting as a personal learning companion with real-time AI insights.
 
 **Key Features:**
 - 🤖 AI-powered content analysis and insights
@@ -187,7 +226,7 @@ Intelligent Chrome extension that acts as your personal learning companion with 
 - 📊 Learning progress tracking
 - 🔖 Intelligent bookmarking system
 
-**Tech Stack:** JavaScript, Chrome Extension APIs, AI Integration
+**Tech Stack:** JavaScript · Chrome APIs · AI Integration
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat050/coachlens-2.0)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome)](https://github.com/Akshat050/coachlens-2.0)
@@ -197,19 +236,19 @@ Intelligent Chrome extension that acts as your personal learning companion with 
 
 ### 🔍 [RepoForge](https://github.com/Akshat050/repoforge) - AI Code Intelligence
 
-<img align="right" width="120" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+<img align="right" width="100" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
 
-**CLI Tool | TypeScript | 15+ Framework Detection**
+**CLI Tool | TypeScript | Semantic Analysis**
 
 ML-driven code intelligence system that automatically analyzes JavaScript/TypeScript repositories.
 
 **Key Achievements:**
 - 📊 **Automatic framework detection** (React, Next.js, Vue, Express, +11 more)
-- 🤖 **Semantic code analysis** with LLM-powered reasoning
-- 🔧 **Plugin architecture** for extensibility
-- 🎯 **35% reduction in false positives** through validation
+- 🤖 **Semantic code search** with LLM-powered reasoning
+- 🔧 **Modular plugin architecture** for extensibility
+- 🎯 **35% reduction in false positives** through validation guardrails
 
-**Tech Stack:** TypeScript, Node.js, AI Integration, CLI
+**Tech Stack:** TypeScript · Node.js · OpenAI API · AST Parsing · Vector Search
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat050/repoforge)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Akshat050/repoforge)
@@ -219,19 +258,19 @@ ML-driven code intelligence system that automatically analyzes JavaScript/TypeSc
 
 ### ✈️ [VisaGuideAI](https://github.com/Akshat050/VisaGuideAI) - Intelligent Visa Assistant
 
-<img align="right" width="120" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png">
+<img align="right" width="100" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png">
 
 **Full-Stack RAG | <800ms Latency | Production-Grade**
 
-Route-aware visa assistant with verified requirements and context-grounded AI recommendations.
+Route-aware visa assistant providing context-grounded recommendations with verified requirements.
 
 **Key Achievements:**
-- 🎯 **Complete RAG pipeline:** Document ingestion → Retrieval → Generation
-- ⚡ **73% latency improvement:** 3s → <800ms with Redis caching
-- 🛡️ **Context-grounded responses** with citation tracking
-- 📊 **85%+ answer quality** maintained at scale
+- 🎯 **Complete RAG pipeline:** Document ingestion → chunking → embedding → retrieval → generation
+- ⚡ **73% latency improvement:** Optimized from 3s to <800ms with Redis caching
+- 🛡️ **Context-grounded responses** with automatic citation tracking
+- 📊 **85%+ answer quality** maintained at scale through systematic evaluation
 
-**Tech Stack:** FastAPI, React, PostgreSQL, Redis, Gemini AI
+**Tech Stack:** FastAPI · React · PostgreSQL · Redis · ChromaDB · Gemini AI · Docker
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat050/VisaGuideAI)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Akshat050/VisaGuideAI)
@@ -264,11 +303,11 @@ Route-aware visa assistant with verified requirements and context-grounded AI re
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-**Specialized Skills:**
-- 🧠 **LLMs:** OpenAI GPT-4, Google Gemini, Anthropic Claude | Prompt Engineering | Fine-tuning
-- 🔍 **RAG Systems:** Vector DBs (Pinecone, ChromaDB, FAISS) | Semantic Search | Hybrid Retrieval
-- 🛡️ **ML Reliability:** Output Validation | Hallucination Reduction | Evaluation Frameworks
-- 📊 **ML Engineering:** Feature Engineering | Model Deployment | A/B Testing | Monitoring
+**Specialized ML Skills:**
+- 🧠 **LLMs:** OpenAI GPT-4 · Google Gemini · Anthropic Claude | Prompt Engineering · Fine-tuning · Inference Optimization
+- 🔍 **RAG Systems:** Vector DBs (Pinecone, ChromaDB, FAISS) | Semantic Search | Hybrid Retrieval | Document Processing
+- 🛡️ **ML Reliability:** Output Validation · Hallucination Detection · Evaluation Frameworks · Error Handling
+- 📊 **ML Engineering:** Feature Engineering · Model Deployment · A/B Testing · Performance Monitoring
 
 ### Cloud & Infrastructure
 <p align="center">
@@ -307,50 +346,70 @@ Every claim backed by data: accuracy, latency, user validation.
 </td>
 </tr>
 </table>
-
 ```yaml
 principles:
   - "Build systems that work reliably in production"
-  - "Client validation > academic benchmarks"
+  - "Partner validation > academic benchmarks"
   - "Latency and UX matter as much as accuracy"
   - "Explainability builds trust"
 
 approach:
   design: "System design over model architecture"
-  validation: "Real users and clients, not just test sets"
+  validation: "Real users and partners, not just test sets"
   deployment: "Production-ready from day one"
   iteration: "Measure, learn, improve continuously"
 ```
 
 ---
 
-## 📈 What I'm Currently Exploring
+## 📈 Currently Exploring
 
-- 🔬 **Advanced RAG Techniques** - Multi-hop retrieval, query decomposition, hybrid search optimization
-- 🛡️ **ML System Reliability** - Hallucination detection, output validation frameworks, failure mode analysis
-- ⚡ **Performance at Scale** - Sub-second latency, caching strategies, edge deployment
-- 🏗️ **Cloud-Native AI** - Kubernetes for ML, serverless ML, cost optimization
+- 🔬 **Advanced RAG Techniques** - Multi-hop retrieval · Query decomposition · Hybrid search optimization
+- 🛡️ **ML System Reliability** - Hallucination detection · Output validation frameworks · Failure mode analysis
+- ⚡ **Performance at Scale** - Sub-second latency · Caching strategies · Edge deployment
+- 🏗️ **Cloud-Native AI** - Kubernetes for ML · Serverless architectures · Cost optimization
+- 🧪 **Multimodal AI Systems** - Vision + language models · Cross-modal reasoning
 
 ---
 
-## 🎓 Education & Background
+## 🎓 Education
 
-**Master of Science - Data Analytics** (Machine Learning Specialization)  
-Northeastern University, Vancouver, BC | **2024**
-- Applied Research: Industry collaboration with startup and enterprise clients
-- Focus: LLMs, RAG Systems, Production ML Deployment
+<table>
+<tr>
+<td width="50%">
 
-**Bachelor of Engineering - Computer Engineering**  
-Ganpat University, India | **2021**
+### **Master of Science - Data Analytics Engineering**
+**Northeastern University** | Vancouver, BC  
+**Graduated:** June 2024  
+**Specialization:** Machine Learning & Applied AI
 
-**Professional Journey:**
-```
-2021-2022: Software Developer (Backend, Data Pipelines, APIs)
-2023:      ML Engineering Consultant (Client Projects)
-2023-2024: Independent ML Engineer (Production Systems)
-2024:      Client Project - IECBC Ascend (Data Analytics Platform)
-2024:      Google Cloud ML Certified
-```
+**Graduate Projects:**
+- Enterprise Document Intelligence (Series A Startup)
+- Business Policy Navigation (SMB Advisory Firm)
+- ASCEND Platform (IECBC Client)
+
+**Relevant Coursework:**
+- Machine Learning Systems
+- Natural Language Processing
+- Deep Learning
+- MLOps & Production Deployment
+
+</td>
+<td width="50%">
+
+### **Bachelor of Engineering - Computer Engineering**
+**Ganpat University** | India  
+**Graduated:** 2021
+
+**Foundation in:**
+- Data Structures & Algorithms
+- Database Systems
+- Software Engineering
+- Computer Networks
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -367,6 +426,8 @@ Ganpat University, India | **2021**
 <a href="https://www.credly.com/users/akshat-bhatt"><img src="https://img.shields.io/badge/Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
 
+**📧 akshatbhatt30@gmail.com | 📱 (604) 825-0125**
+
 </div>
 
 ---
@@ -375,9 +436,9 @@ Ganpat University, India | **2021**
 
 <div align="center">
 
-**🎯 2+ years ML experience** | **🏢 3 client projects delivered** | **🚀 6 production systems built**  
-**📊 82-85% accuracy** | **⚡ <2s latency optimized** | **🛡️ 40% hallucination reduction**  
-**☁️ Google Cloud Certified** | **🎓 MS Machine Learning** | **💼 Open to opportunities**
+**🎓 MS Machine Learning (2024)** | **🏢 3 industry partner projects** | **🚀 6 production systems**  
+**📊 82-85% accuracy achieved** | **⚡ <2s latency optimized** | **🛡️ 40% hallucination reduction**  
+**☁️ Google Cloud Certified** | **💻 Full-Stack ML** | **🌍 Vancouver, BC**
 
 </div>
 
@@ -394,5 +455,7 @@ Ganpat University, India | **2021**
 **⭐ If you find my work interesting, consider starring the repositories!**
 
 *Building reliable ML systems, one commit at a time.* 💙
+
+**Currently seeking full-time ML Engineering opportunities in Vancouver or remote.**
 
 </div>
