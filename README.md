@@ -18,41 +18,22 @@
 
 ## 🚀 About Me
 
-**Machine Learning Engineer** specializing in **LLM-based systems**, **RAG architectures**, and **production AI deployment**. Recent MS graduate (Northeastern University, 2024) with hands-on experience building production-grade ML systems for industry partners.
+**Machine Learning Engineer** specializing in **LLM-based systems**, **RAG architectures**, and **production AI deployment**. 
 
-I don't just build models—I build **complete, production-ready systems** with real validation, measurable metrics, and proven impact.
-```python
-class AkshatBhatt:
-    def __init__(self):
-        self.role = "Machine Learning Engineer"
-        self.education = "MS Data Analytics Engineering (Northeastern, 2024)"
-        self.location = "Vancouver, BC"
-        self.status = "Actively seeking ML Engineering opportunities"
-        self.certifications = ["Google Cloud ML Engineer", "GenAI Specialist"]
-        
-        self.specialization = [
-            "LLM Systems & RAG Architectures",
-            "Production ML Deployment", 
-            "Full-Stack ML Development",
-            "FastAPI + Docker + Cloud"
-        ]
-        
-        self.proven_results = {
-            "industry_projects": 3,
-            "production_systems": 6,
-            "accuracy_achieved": "82-85%",
-            "latency_optimized": "<2s",
-            "hallucination_reduction": "40%"
-        }
-    
-    def differentiator(self):
-        return """
-        Graduate ML projects with real industry partners +
-        Google Cloud certified +
-        Production-focused engineering +
-        Full-stack capabilities
-        """
-```
+Recent MS graduate with hands-on experience building production-grade ML systems for industry partners.
+
+### What I Build:
+- 🤖 **LLM Systems & RAG Architectures** - Document intelligence, semantic search, context-grounded generation
+- ⚡ **Production ML Deployment** - FastAPI, Docker, cloud services with <2s latency
+- 🛡️ **Reliable AI Systems** - Output validation, hallucination detection, evaluation frameworks
+- 💻 **Full-Stack ML** - End-to-end systems from data pipelines to user interfaces
+
+### My Results:
+- ✅ **3 industry partner projects** delivered to production
+- ✅ **82-85% accuracy** on real-world validation
+- ✅ **<2s latency** optimization across systems
+- ✅ **40% hallucination reduction** through systematic engineering
+- ✅ **Google Cloud Certified** in ML and GenAI
 
 ---
 
@@ -102,7 +83,7 @@ class AkshatBhatt:
 <div align="center">
 
 ### 🎓 Graduate ML Projects with Industry Partners
-*Northeastern University | 2023-2024*
+*Northeastern University*
 
 > Built production-grade ML systems for real organizations as part of graduate program.  
 > All systems delivered to production and validated by partner stakeholders.
@@ -162,7 +143,7 @@ Python · FastAPI · OpenAI API · FAISS · React · PostgreSQL · Redis · Dock
 
 </td>
 <td width="33%">
-
+    
 ### 🚀 **ASCEND Employment Platform**
 **Client:** IECBC (Immigrant Employment Council of BC)  
 
@@ -193,7 +174,7 @@ Python · AWS Lambda · AWS SAM · PostgreSQL · Power BI
 
 ## 💼 Prior Professional Experience
 
-**Software Developer** | Ideation Design Studio | Ahmedabad, India | Oct 2021 – Nov 2022
+**Software Developer**
 
 - Built Python backend systems and ETL pipelines processing **50K+ daily records** for 20+ client accounts
 - Designed data ingestion workflows reducing processing time by **60%** through optimization
@@ -201,7 +182,7 @@ Python · AWS Lambda · AWS SAM · PostgreSQL · Power BI
 - Automated 5 critical workflows eliminating **15+ hours/week** of manual work
 - Collaborated with cross-functional teams (design, product, clients) in fast-paced environment
 
-**Software Developer Intern** | BISAG-N (Government of Gujarat) | Gandhinagar, India | Jan 2021 – Jun 2021
+**Software Developer Intern** 
 
 - Contributed to backend development for large-scale government data applications
 - Built data validation workflows and REST API integrations
@@ -320,142 +301,3 @@ Route-aware visa assistant providing context-grounded recommendations with verif
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
----
-
-## 💡 My Engineering Philosophy
-
-<table>
-<tr>
-<td width="33%">
-
-### 🎯 **Production-First**
-I build for real users with real constraints, not just Jupyter notebooks.
-
-</td>
-<td width="33%">
-
-### 🛡️ **Reliability Matters**
-Grounding, validation, and fallbacks aren't optional—they're essential for trust.
-
-</td>
-<td width="33%">
-
-### 📊 **Metrics-Driven**
-Every claim backed by data: accuracy, latency, user validation.
-
-</td>
-</tr>
-</table>
-```yaml
-principles:
-  - "Build systems that work reliably in production"
-  - "Partner validation > academic benchmarks"
-  - "Latency and UX matter as much as accuracy"
-  - "Explainability builds trust"
-
-approach:
-  design: "System design over model architecture"
-  validation: "Real users and partners, not just test sets"
-  deployment: "Production-ready from day one"
-  iteration: "Measure, learn, improve continuously"
-```
-
----
-
-## 📈 Currently Exploring
-
-- 🔬 **Advanced RAG Techniques** - Multi-hop retrieval · Query decomposition · Hybrid search optimization
-- 🛡️ **ML System Reliability** - Hallucination detection · Output validation frameworks · Failure mode analysis
-- ⚡ **Performance at Scale** - Sub-second latency · Caching strategies · Edge deployment
-- 🏗️ **Cloud-Native AI** - Kubernetes for ML · Serverless architectures · Cost optimization
-- 🧪 **Multimodal AI Systems** - Vision + language models · Cross-modal reasoning
-
----
-
-## 🎓 Education
-
-<table>
-<tr>
-<td width="50%">
-
-### **Master of Science - Data Analytics Engineering**
-**Northeastern University** | Vancouver, BC  
-**Graduated:** June 2024  
-**Specialization:** Machine Learning & Applied AI
-
-**Graduate Projects:**
-- Enterprise Document Intelligence (Series A Startup)
-- Business Policy Navigation (SMB Advisory Firm)
-- ASCEND Platform (IECBC Client)
-
-**Relevant Coursework:**
-- Machine Learning Systems
-- Natural Language Processing
-- Deep Learning
-- MLOps & Production Deployment
-
-</td>
-<td width="50%">
-
-### **Bachelor of Engineering - Computer Engineering**
-**Ganpat University** | India  
-**Graduated:** 2021
-
-**Foundation in:**
-- Data Structures & Algorithms
-- Database Systems
-- Software Engineering
-- Computer Networks
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-### 💼 **Open to ML Engineering Opportunities | Vancouver / Remote**
-
-<p>
-<a href="https://www.linkedin.com/in/akshat-bhatt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:akshatbhatt30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Akshat050"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.credly.com/users/akshat-bhatt"><img src="https://img.shields.io/badge/Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
-</p>
-
-**📧 akshatbhatt30@gmail.com | 📱 (604) 825-0125**
-
-</div>
-
----
-
-## 💬 Quick Facts
-
-<div align="center">
-
-**🎓 MS Machine Learning (2024)** | **🏢 3 industry partner projects** | **🚀 6 production systems**  
-**📊 82-85% accuracy achieved** | **⚡ <2s latency optimized** | **🛡️ 40% hallucination reduction**  
-**☁️ Google Cloud Certified** | **💻 Full-Stack ML** | **🌍 Vancouver, BC**
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 **Philosophy**
-
-*"I don't build ML models. I build ML systems that work in production."*
-
----
-
-**⭐ If you find my work interesting, consider starring the repositories!**
-
-*Building reliable ML systems, one commit at a time.* 💙
-
-**Currently seeking full-time ML Engineering opportunities in Vancouver or remote.**
-
-</div>
