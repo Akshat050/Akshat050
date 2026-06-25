@@ -155,23 +155,6 @@ Serverless data pipeline + Power BI dashboards for immigrant employment programs
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshat050&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat050&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat050&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshat050&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
-</p>
-
----
-
 <p align="center">
   <i>🚌 → 🤖 &nbsp; From a bus app riders still tap today, to AI systems serving enterprises.<br/>
   I build things that outlive the demo. Let's talk.</i>
