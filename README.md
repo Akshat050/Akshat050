@@ -1,13 +1,13 @@
-<h1 align="center">Hey, I'm Akshat Bhatt 👋</h1>
+<h1 align="center">Hey, I'm Akshat 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Production+LLM+Systems;RAG+Architectures+%26+Reliable+AI;Google+Cloud+Certified;Building+AI+that+actually+ships" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=I+turn+messy+problems+into+systems+people+use;AI%2FML+Engineer+%7C+Data+%26+Business+Analyst;Software+Developer+%7C+Production+LLM+Systems;From+a+bus+app+in+India+to+AI+in+Canada+%F0%9F%9A%8C%E2%9E%A1%EF%B8%8F%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  📍 Vancouver, BC, Canada &nbsp;|&nbsp; 💼 Open to ML Engineering Opportunities
+  📍 Vancouver, BC, Canada &nbsp;|&nbsp; 💼 Open to Data, Software & AI/ML roles &nbsp;|&nbsp; 🍁 Master's in Analytics
 </p>
 
 <p align="center">
@@ -19,72 +19,95 @@
 
 ---
 
-## 🚀 About Me
+## 🧭 Who I Actually Am
 
-Machine Learning Engineer specializing in **LLM-based systems, RAG architectures, and production AI deployment**. Recent MS graduate (Northeastern University) with hands-on experience shipping production-grade ML systems for real industry partners.
+I'm an engineer who measures success one way: **did a real person end up using the thing I built?**
+
+That obsession started early. As an intern, I helped build a real-time bus tracking and payment system for **Gujarat's state transit (GSRTC)** — and it's *still in active use today by commuters across the state*. Since then I've shipped AI document systems for enterprise customers, analytics platforms for a BC government council, and forecasting tools that leadership checks every morning.
+
+I don't fit neatly in one box, and I've stopped pretending I should. I'm equally comfortable **cleaning a messy dataset, writing the backend that serves it, building the model on top, and explaining the result to a stakeholder who's never written a line of code.** That range is the point.
 
 ```python
-class AkshatBhatt:
+class Akshat:
     def __init__(self):
-        self.role        = "ML Engineer"
-        self.location    = "Vancouver, BC 🇨🇦"
-        self.education   = "MS Analytics — ML Specialization, Northeastern"
-        self.focus       = ["LLM Systems", "RAG Pipelines", "Production AI"]
-        self.stack       = ["Python", "FastAPI", "OpenAI", "Pinecone", "GCP", "Docker"]
-        self.open_to     = "ML Engineering Opportunities"
+        self.location   = "Vancouver, BC 🇨🇦 (via Gujarat, India 🇮🇳)"
+        self.education  = "MS Analytics, ML Specialization — Northeastern"
+        self.wears      = ["Data Analyst", "Business Analyst",
+                           "Software Developer", "AI/ML Engineer"]
+        self.philosophy = "Ship it. Measure it. Make it reliable."
 
-    def current_obsession(self):
-        return "Making AI reliable enough to ship 🚢"
+    def what_drives_me(self):
+        return "Building things people don't have to think about — they just work."
+
+    def fun_fact(self):
+        return "Pulled off audio, image AND video steganography in one project — video was the 'unsolved' one 😎"
 ```
 
 ---
 
-## 🛠️ What I Build
+## 🎯 Four Hats, One Engineer
 
-- 🤖 **LLM Systems & RAG Architectures** — Document intelligence, semantic search, context-grounded generation
-- ⚡ **Production ML Deployment** — FastAPI, Docker, cloud services with `<2s` latency
-- 🛡️ **Reliable AI Systems** — Output validation, hallucination detection, evaluation frameworks
-- 💻 **Full-Stack ML** — End-to-end systems from data pipelines to user interfaces
+I tailor depending on the problem in front of me. Here's how my skills map across the roles I work in:
 
-### 📊 Results That Matter
+| 🤖 AI / ML Engineer | 📊 Data Analyst | 💼 Business Analyst | 💻 Software Developer |
+|---|---|---|---|
+| RAG pipelines | SQL & data cleaning | Stakeholder discovery | Python / FastAPI / Flask |
+| LLM systems (GPT-4, Gemini) | Power BI dashboards | Requirements → specs | REST APIs & backends |
+| Vector DBs (Pinecone, FAISS) | Forecasting (Prophet, ARIMA) | Process mapping | React front-ends |
+| Hallucination reduction | ETL & pipelines | KPI definition | PostgreSQL / Redis / Docker |
+| Model deployment | Pandas / NumPy | Plain-language reporting | Android (yes, really) |
+
+---
+
+## 📊 Results That Actually Shipped
 
 <table>
   <tr>
-    <td>✅ <b>3</b> industry partner projects shipped to production</td>
-    <td>✅ <b>82–85%</b> accuracy on real-world validation</td>
+    <td>🚌 Transit system <b>live in production</b> across Gujarat</td>
+    <td>✅ <b>3</b> industry projects deployed for real partners</td>
   </tr>
   <tr>
-    <td>✅ <b>&lt;2s</b> latency optimization across systems</td>
-    <td>✅ <b>40%</b> hallucination reduction through engineering</td>
+    <td>🎯 <b>82–85%</b> accuracy on real-world validation</td>
+    <td>⚡ <b>73%</b> latency cut (3s → &lt;800ms)</td>
   </tr>
   <tr>
-    <td>✅ <b>73%</b> latency improvement (3s → &lt;800ms)</td>
-    <td>✅ Google Cloud Certified in ML & GenAI</td>
+    <td>🛡️ <b>40%</b> fewer hallucinations through engineering</td>
+    <td>📉 <b>60%+</b> reporting effort automated away</td>
+  </tr>
+  <tr>
+    <td>🌾 <b>92%</b> accuracy on a crop-disease ML model</td>
+    <td>☁️ Google Cloud Certified — ML & GenAI</td>
   </tr>
 </table>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages & ML/AI
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### LLM & RAG
+**AI / ML & LLM**
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
 
-### Backend & Infrastructure
+**Data & Analytics**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+
+**Backend & Infra**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -92,78 +115,51 @@ class AkshatBhatt:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Cloud & Data
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+**Cloud**
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
-## 💼 Featured Work — Industry Partner Deployments
+## 💼 Industry Partner Deployments
 
 ### 📊 Enterprise Document Intelligence
-> **Partner:** Series A AI Startup &nbsp;•&nbsp; **Stack:** `Python` `FastAPI` `OpenAI GPT-4` `Pinecone` `PostgreSQL` `Docker`
+> **Series A AI Startup** · `Python` `FastAPI` `OpenAI GPT-4` `Pinecone` `PostgreSQL` `Docker`
 
-Designed a complete RAG pipeline (ingestion → chunking → embedding → retrieval → generation) letting enterprise customers query **10K+ internal documents** with grounded, source-attributed answers.
-
-`✅ 82% answer accuracy` &nbsp; `✅ <2s latency at scale` &nbsp; `✅ 40% fewer hallucinations` &nbsp; `✅ Serving real customers`
+Full RAG pipeline (ingestion → chunking → embedding → retrieval → generation) letting enterprise customers query **10K+ documents** with grounded, source-attributed answers.
+`✅ 82% accuracy` · `✅ <2s latency` · `✅ 40% fewer hallucinations` · `✅ Serving real customers`
 
 ### 🏛️ Business Policy Navigation System
-> **Partner:** Small Business Advisory Firm &nbsp;•&nbsp; **Stack:** `FastAPI` `OpenAI` `FAISS` `React` `Redis` `PostgreSQL`
+> **Small Business Advisory Firm** · `FastAPI` `OpenAI` `FAISS` `React` `Redis` `PostgreSQL`
 
-Built a full-stack semantic search system indexing **1,000+ policy documents**, helping 100+ small businesses navigate complex regulatory requirements with plain-language explanations.
-
-`✅ 85%+ retrieval relevance` &nbsp; `✅ <800ms response (Redis cache)` &nbsp; `✅ Validated by domain experts`
+Full-stack semantic search across **1,000+ policy documents**, helping 100+ small businesses navigate regulations in plain language.
+`✅ 85%+ relevance` · `✅ <800ms (Redis cache)` · `✅ Validated by domain experts`
 
 ### 🚀 ASCEND Employment Platform
-> **Client:** IECBC (Immigrant Employment Council of BC) &nbsp;•&nbsp; **Stack:** `Python` `AWS Lambda` `AWS SAM` `Power BI`
+> **IECBC — Immigrant Employment Council of BC** · `Python` `AWS Lambda` `AWS SAM` `Power BI`
 
-Developed a serverless data pipeline and Power BI dashboards for immigrant employment program operations, as part of a **5-person team** — deployed to client infrastructure.
-
-`✅ Production deployment` &nbsp; `✅ Automated program evaluation` &nbsp; `✅ Multi-language data processing`
-
----
-
-## 🌟 Personal Projects
-
-### ✈️ [VisaGuideAI](https://github.com/Akshat050/VisaGuideAI) — Intelligent Visa Assistant
-Route-aware visa assistant with context-grounded recommendations and verified requirements. Full RAG pipeline with automatic citation tracking.
-
-`FastAPI` `React` `PostgreSQL` `Redis` `ChromaDB` `Gemini AI` `Docker`
-> 🎯 **73% latency improvement** (3s → &lt;800ms) &nbsp;•&nbsp; 85%+ answer quality maintained at scale
-
-### 🔍 [RepoForge](https://github.com/Akshat050/repoforge) — AI Code Intelligence
-ML-driven CLI tool that auto-analyzes JS/TS repositories with semantic code search and LLM-powered reasoning.
-
-`TypeScript` `Node.js` `OpenAI API` `AST Parsing` `Vector Search`
-> 📊 Auto framework detection (React, Next.js, Vue, Express +11) &nbsp;•&nbsp; 35% fewer false positives
-
-### 🧠 [CoachLens 2.0](https://github.com/Akshat050/coachlens-2.0) — AI Learning Companion
-Privacy-first Chrome extension with real-time AI insights, smart note-taking, and auto-summarization.
-
-`JavaScript` `Chrome APIs` `AI Integration`
-> 🤖 AI content analysis &nbsp;•&nbsp; 📝 Auto-summarization &nbsp;•&nbsp; 🎯 Focus timer
+Serverless data pipeline + Power BI dashboards for immigrant employment programs, built in a **5-person team** and deployed to client infrastructure.
+`✅ Production deployment` · `✅ Automated program evaluation` · `✅ Multi-language data`
 
 ---
 
-## 🏆 Certifications
+## 🌟 Things I Built for Fun
 
-**Google Cloud — Machine Learning & AI**
-- 🤖 Introduction to Generative AI · GenAIus Chats · ML APIs on Google Cloud · Explainable AI
-- 📊 BigQuery ML for Predictive Modeling · Derive Insights from BigQuery · Prepare Data for ML APIs
-- ☁️ Deploy Kubernetes on GCP · Secure Cloud Network · Cloud Load Balancing
-
-🔗 **[View Full Google Skills Profile →](https://www.skills.google/public_profiles/0dd84e4d-e7d0-4fde-a8d9-7f2d786bb3c8)** &nbsp;|&nbsp; 🏅 Gold League · 20 Badges · 24,396 pts
+| Project | What it does | Stack |
+|---|---|---|
+| ✈️ **[VisaGuideAI](https://github.com/Akshat050/VisaGuideAI)** | Route-aware visa assistant, context-grounded RAG with citations. **73% latency cut (3s→<800ms).** | FastAPI · React · ChromaDB · Gemini |
+| 🔍 **[RepoForge](https://github.com/Akshat050/repoforge)** | CLI that auto-analyzes JS/TS repos with semantic search. Detects 15+ frameworks, 35% fewer false positives. | TypeScript · OpenAI · AST · Vector Search |
+| 🧠 **[CoachLens 2.0](https://github.com/Akshat050/coachlens-2.0)** | Privacy-first Chrome extension — AI insights, auto-summaries, focus timer. | JavaScript · Chrome APIs · AI |
+| 🌾 **Krishi Mitra** | Crop disease + soil recommendation engine. **92% accuracy** from live field images. | Python · ML · Computer Vision |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshat050&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshat's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat050&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshat050&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat050&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
@@ -177,5 +173,6 @@ Privacy-first Chrome extension with real-time AI insights, smart note-taking, an
 ---
 
 <p align="center">
-  <i>💡 Always happy to chat about LLM systems, RAG, or production ML. Reach out!</i>
+  <i>🚌 → 🤖 &nbsp; From a bus app riders still tap today, to AI systems serving enterprises.<br/>
+  I build things that outlive the demo. Let's talk.</i>
 </p>
