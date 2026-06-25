@@ -1,303 +1,181 @@
-# Hey, I'm Akshat Bhatt 👋
+<h1 align="center">Hey, I'm Akshat Bhatt 👋</h1>
 
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Production+LLM+Systems;RAG+Architectures+%26+Reliable+AI;Google+Cloud+Certified;Building+AI+that+actually+ships" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Production+LLM+Systems+%26+RAG+Architectures;Google+Cloud+Certified;Full-Stack+ML+Development;Recent+MS+Graduate+%7C+Seeking+ML+Opportunities)](https://git.io/typing-svg)
+<p align="center">
+  📍 Vancouver, BC, Canada &nbsp;|&nbsp; 💼 Open to ML Engineering Opportunities
+</p>
 
-**📍 Vancouver, BC, Canada | 💼 Open to ML Engineering Opportunities**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-bhatt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatbhatt30@gmail.com)
-[![Certifications](https://img.shields.io/badge/Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/akshat-bhatt)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Akshat050&color=0077B5&style=for-the-badge)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/akshat-bhatt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:akshatbhatt30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.skills.google/public_profiles/0dd84e4d-e7d0-4fde-a8d9-7f2d786bb3c8"><img src="https://img.shields.io/badge/Google_Cloud_Certs-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Certifications"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Akshat050&style=for-the-badge&color=2563EB" alt="Profile Views"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-**Machine Learning Engineer** specializing in **LLM-based systems**, **RAG architectures**, and **production AI deployment**. 
+Machine Learning Engineer specializing in **LLM-based systems, RAG architectures, and production AI deployment**. Recent MS graduate (Northeastern University) with hands-on experience shipping production-grade ML systems for real industry partners.
 
-Recent MS graduate with hands-on experience building production-grade ML systems for industry partners.
+```python
+class AkshatBhatt:
+    def __init__(self):
+        self.role        = "ML Engineer"
+        self.location    = "Vancouver, BC 🇨🇦"
+        self.education   = "MS Analytics — ML Specialization, Northeastern"
+        self.focus       = ["LLM Systems", "RAG Pipelines", "Production AI"]
+        self.stack       = ["Python", "FastAPI", "OpenAI", "Pinecone", "GCP", "Docker"]
+        self.open_to     = "ML Engineering Opportunities"
 
-### What I Build:
-- 🤖 **LLM Systems & RAG Architectures** - Document intelligence, semantic search, context-grounded generation
-- ⚡ **Production ML Deployment** - FastAPI, Docker, cloud services with <2s latency
-- 🛡️ **Reliable AI Systems** - Output validation, hallucination detection, evaluation frameworks
-- 💻 **Full-Stack ML** - End-to-end systems from data pipelines to user interfaces
-
-### My Results:
-- ✅ **3 industry partner projects** delivered to production
-- ✅ **82-85% accuracy** on real-world validation
-- ✅ **<2s latency** optimization across systems
-- ✅ **40% hallucination reduction** through systematic engineering
-- ✅ **Google Cloud Certified** in ML and GenAI
-
----
-
-## 🏆 Certifications & Credentials
-
-<div align="center">
-
-### Google Cloud Platform - Machine Learning & AI
-
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/users/akshat-bhatt)
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 **AI & Machine Learning**
-- ✅ Introduction to Generative AI (2024)
-- ✅ Level 3: GenAIus Chats (2024)
-- ✅ Engineer Data for Predictive Modeling with BigQuery ML
-- ✅ Use Machine Learning APIs on Google Cloud
-- ✅ Explore ML Models with Explainable AI
-- ✅ Prepare Data for ML APIs on Google Cloud
-
-</td>
-<td width="50%">
-
-### ☁️ **Cloud Infrastructure & Deployment**
-- ✅ Deploy Kubernetes Applications on Google Cloud
-- ✅ Build a Secure Google Cloud Network
-- ✅ Set Up a Google Cloud Network
-- ✅ Develop Your Google Cloud Network
-- ✅ Implementing Cloud Load Balancing for Compute Engine
-- ✅ Derive Insights from BigQuery Data
-
-</td>
-</tr>
-</table>
-
-**📜 View All Certifications:** [Credly Profile](https://www.credly.com/users/akshat-bhatt)
+    def current_obsession(self):
+        return "Making AI reliable enough to ship 🚢"
+```
 
 ---
 
-## 💼 ML Engineering Experience
+## 🛠️ What I Build
 
-<div align="center">
+- 🤖 **LLM Systems & RAG Architectures** — Document intelligence, semantic search, context-grounded generation
+- ⚡ **Production ML Deployment** — FastAPI, Docker, cloud services with `<2s` latency
+- 🛡️ **Reliable AI Systems** — Output validation, hallucination detection, evaluation frameworks
+- 💻 **Full-Stack ML** — End-to-end systems from data pipelines to user interfaces
 
-### 🎓 Graduate ML Projects with Industry Partners
-*Northeastern University*
-
-> Built production-grade ML systems for real organizations as part of graduate program.  
-> All systems delivered to production and validated by partner stakeholders.
-
-</div>
+### 📊 Results That Matter
 
 <table>
-<tr>
-<td width="33%">
-
-### 📊 **Enterprise Document Intelligence**
-**Industry Partner:** Series A AI Startup  
-
-**Challenge:**  
-Enable enterprise customers to query 10K+ internal documents efficiently with high accuracy.
-
-**My Solution:**
-- Designed complete RAG pipeline: ingestion → chunking → embedding → retrieval → generation
-- Built FastAPI backend with async patterns and Pydantic models
-- Implemented hallucination detection and output validation
-- Deployed containerized system with Docker
-- Integrated Pinecone vector database and PostgreSQL
-
-**Results:**
-- ✅ **82% answer accuracy** (validated through user testing)
-- ✅ **<2s query latency** at scale
-- ✅ **40% reduction in hallucinations** through prompt engineering and validation
-- ✅ **System deployed to production** and serving real customers
-
-**Tech Stack:**  
-Python · FastAPI · OpenAI GPT-4 · Pinecone · PostgreSQL · Docker · Pydantic
-
-</td>
-<td width="33%">
-
-### 🏛️ **Business Policy Navigation System**
-**Research Partner:** Small Business Advisory Firm  
-
-**Challenge:**  
-Help 100+ small businesses navigate complex regulatory requirements across jurisdictions.
-
-**My Solution:**
-- Built semantic search infrastructure indexing 1,000+ policy documents
-- Implemented location-aware, business-type-specific retrieval
-- Created LLM-based summarization with plain-language explanations
-- Developed full-stack application (FastAPI + React)
-- Collaborated with domain experts to validate outputs
-
-**Results:**
-- ✅ **85%+ retrieval relevance** on test queries
-- ✅ **<800ms average response time** with Redis caching
-- ✅ **Deployed to partner infrastructure**
-- ✅ **Validated by business advisors** (similar to working with CPAs)
-
-**Tech Stack:**  
-Python · FastAPI · OpenAI API · FAISS · React · PostgreSQL · Redis · Docker
-
-</td>
-<td width="33%">
-    
-### 🚀 **ASCEND Employment Platform**
-**Client:** IECBC (Immigrant Employment Council of BC)  
-
-**Challenge:**  
-Build comprehensive data analytics platform for immigrant employment program operations.
-
-**My Role:**
-- Developed serverless data processing pipeline (AWS SAM/Lambda)
-- Built Power BI dashboards for program analytics
-- Designed ETL workflows and data cleaning modules
-- Managed multi-language data processing
-- Collaborated in 5-person team
-
-**Results:**
-- ✅ **Production deployment** to client infrastructure
-- ✅ **Automated data workflows** for program evaluation
-- ✅ **Comprehensive analytics** enabling data-driven decisions
-- ✅ **Team collaboration** delivering end-to-end solution
-
-**Tech Stack:**  
-Python · AWS Lambda · AWS SAM · PostgreSQL · Power BI
-
-</td>
-</tr>
+  <tr>
+    <td>✅ <b>3</b> industry partner projects shipped to production</td>
+    <td>✅ <b>82–85%</b> accuracy on real-world validation</td>
+  </tr>
+  <tr>
+    <td>✅ <b>&lt;2s</b> latency optimization across systems</td>
+    <td>✅ <b>40%</b> hallucination reduction through engineering</td>
+  </tr>
+  <tr>
+    <td>✅ <b>73%</b> latency improvement (3s → &lt;800ms)</td>
+    <td>✅ Google Cloud Certified in ML & GenAI</td>
+  </tr>
 </table>
 
 ---
 
-## 💼 Prior Professional Experience
+## 💻 Tech Stack
 
-**Software Developer**
+### Languages & ML/AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- Built Python backend systems and ETL pipelines processing **50K+ daily records** for 20+ client accounts
-- Designed data ingestion workflows reducing processing time by **60%** through optimization
-- Developed and deployed 3 major production features serving 100+ users with **99.5% uptime**
-- Automated 5 critical workflows eliminating **15+ hours/week** of manual work
-- Collaborated with cross-functional teams (design, product, clients) in fast-paced environment
+### LLM & RAG
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
 
-**Software Developer Intern** 
+### Backend & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Contributed to backend development for large-scale government data applications
-- Built data validation workflows and REST API integrations
-- Collaborated with teams to deliver production-ready components in regulated environment
-
----
-
-## 🌟 Featured Personal Projects
-
-### 🧠 [CoachLens 2.0](https://github.com/Akshat050/coachlens-2.0) - AI Learning Companion
-
-<img align="right" width="100" src="https://raw.githubusercontent.com/github/explore/main/topics/chrome/chrome.png">
-
-**Chrome Extension | AI-Powered | Privacy-First**
-
-Intelligent Chrome extension acting as a personal learning companion with real-time AI insights.
-
-**Key Features:**
-- 🤖 AI-powered content analysis and insights
-- 📝 Smart note-taking with auto-summarization
-- 🎯 Focus timer with Pomodoro technique
-- 📊 Learning progress tracking
-- 🔖 Intelligent bookmarking system
-
-**Tech Stack:** JavaScript · Chrome APIs · AI Integration
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat050/coachlens-2.0)
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome)](https://github.com/Akshat050/coachlens-2.0)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Cloud & Data
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
-### 🔍 [RepoForge](https://github.com/Akshat050/repoforge) - AI Code Intelligence
+## 💼 Featured Work — Industry Partner Deployments
 
-<img align="right" width="100" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+### 📊 Enterprise Document Intelligence
+> **Partner:** Series A AI Startup &nbsp;•&nbsp; **Stack:** `Python` `FastAPI` `OpenAI GPT-4` `Pinecone` `PostgreSQL` `Docker`
 
-**CLI Tool | TypeScript | Semantic Analysis**
+Designed a complete RAG pipeline (ingestion → chunking → embedding → retrieval → generation) letting enterprise customers query **10K+ internal documents** with grounded, source-attributed answers.
 
-ML-driven code intelligence system that automatically analyzes JavaScript/TypeScript repositories.
+`✅ 82% answer accuracy` &nbsp; `✅ <2s latency at scale` &nbsp; `✅ 40% fewer hallucinations` &nbsp; `✅ Serving real customers`
 
-**Key Achievements:**
-- 📊 **Automatic framework detection** (React, Next.js, Vue, Express, +11 more)
-- 🤖 **Semantic code search** with LLM-powered reasoning
-- 🔧 **Modular plugin architecture** for extensibility
-- 🎯 **35% reduction in false positives** through validation guardrails
+### 🏛️ Business Policy Navigation System
+> **Partner:** Small Business Advisory Firm &nbsp;•&nbsp; **Stack:** `FastAPI` `OpenAI` `FAISS` `React` `Redis` `PostgreSQL`
 
-**Tech Stack:** TypeScript · Node.js · OpenAI API · AST Parsing · Vector Search
+Built a full-stack semantic search system indexing **1,000+ policy documents**, helping 100+ small businesses navigate complex regulatory requirements with plain-language explanations.
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat050/repoforge)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Akshat050/repoforge)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/Akshat050/repoforge)
+`✅ 85%+ retrieval relevance` &nbsp; `✅ <800ms response (Redis cache)` &nbsp; `✅ Validated by domain experts`
 
----
+### 🚀 ASCEND Employment Platform
+> **Client:** IECBC (Immigrant Employment Council of BC) &nbsp;•&nbsp; **Stack:** `Python` `AWS Lambda` `AWS SAM` `Power BI`
 
-### ✈️ [VisaGuideAI](https://github.com/Akshat050/VisaGuideAI) - Intelligent Visa Assistant
+Developed a serverless data pipeline and Power BI dashboards for immigrant employment program operations, as part of a **5-person team** — deployed to client infrastructure.
 
-<img align="right" width="100" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png">
-
-**Full-Stack RAG | <800ms Latency | Production-Grade**
-
-Route-aware visa assistant providing context-grounded recommendations with verified requirements.
-
-**Key Achievements:**
-- 🎯 **Complete RAG pipeline:** Document ingestion → chunking → embedding → retrieval → generation
-- ⚡ **73% latency improvement:** Optimized from 3s to <800ms with Redis caching
-- 🛡️ **Context-grounded responses** with automatic citation tracking
-- 📊 **85%+ answer quality** maintained at scale through systematic evaluation
-
-**Tech Stack:** FastAPI · React · PostgreSQL · Redis · ChromaDB · Gemini AI · Docker
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat050/VisaGuideAI)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Akshat050/VisaGuideAI)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Akshat050/VisaGuideAI)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+`✅ Production deployment` &nbsp; `✅ Automated program evaluation` &nbsp; `✅ Multi-language data processing`
 
 ---
 
-## 🛠️ Technical Expertise
+## 🌟 Personal Projects
 
-### Languages & Frameworks
+### ✈️ [VisaGuideAI](https://github.com/Akshat050/VisaGuideAI) — Intelligent Visa Assistant
+Route-aware visa assistant with context-grounded recommendations and verified requirements. Full RAG pipeline with automatic citation tracking.
+
+`FastAPI` `React` `PostgreSQL` `Redis` `ChromaDB` `Gemini AI` `Docker`
+> 🎯 **73% latency improvement** (3s → &lt;800ms) &nbsp;•&nbsp; 85%+ answer quality maintained at scale
+
+### 🔍 [RepoForge](https://github.com/Akshat050/repoforge) — AI Code Intelligence
+ML-driven CLI tool that auto-analyzes JS/TS repositories with semantic code search and LLM-powered reasoning.
+
+`TypeScript` `Node.js` `OpenAI API` `AST Parsing` `Vector Search`
+> 📊 Auto framework detection (React, Next.js, Vue, Express +11) &nbsp;•&nbsp; 35% fewer false positives
+
+### 🧠 [CoachLens 2.0](https://github.com/Akshat050/coachlens-2.0) — AI Learning Companion
+Privacy-first Chrome extension with real-time AI insights, smart note-taking, and auto-summarization.
+
+`JavaScript` `Chrome APIs` `AI Integration`
+> 🤖 AI content analysis &nbsp;•&nbsp; 📝 Auto-summarization &nbsp;•&nbsp; 🎯 Focus timer
+
+---
+
+## 🏆 Certifications
+
+**Google Cloud — Machine Learning & AI**
+- 🤖 Introduction to Generative AI · GenAIus Chats · ML APIs on Google Cloud · Explainable AI
+- 📊 BigQuery ML for Predictive Modeling · Derive Insights from BigQuery · Prepare Data for ML APIs
+- ☁️ Deploy Kubernetes on GCP · Secure Cloud Network · Cloud Load Balancing
+
+🔗 **[View Full Google Skills Profile →](https://www.skills.google/public_profiles/0dd84e4d-e7d0-4fde-a8d9-7f2d786bb3c8)** &nbsp;|&nbsp; 🏅 Gold League · 20 Badges · 24,396 pts
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshat050&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshat's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat050&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### ML & AI Stack
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat050&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-**Specialized ML Skills:**
-- 🧠 **LLMs:** OpenAI GPT-4 · Google Gemini · Anthropic Claude | Prompt Engineering · Fine-tuning · Inference Optimization
-- 🔍 **RAG Systems:** Vector DBs (Pinecone, ChromaDB, FAISS) | Semantic Search | Hybrid Retrieval | Document Processing
-- 🛡️ **ML Reliability:** Output Validation · Hallucination Detection · Evaluation Frameworks · Error Handling
-- 📊 **ML Engineering:** Feature Engineering · Model Deployment · A/B Testing · Performance Monitoring
-
-### Cloud & Infrastructure
 <p align="center">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshat050&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </p>
 
+---
+
+<p align="center">
+  <i>💡 Always happy to chat about LLM systems, RAG, or production ML. Reach out!</i>
+</p>
